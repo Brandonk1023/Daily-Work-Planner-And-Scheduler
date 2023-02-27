@@ -22,7 +22,9 @@ To use the planner.  Open the application in your browser.  You will then be pre
 As the day progess the application will track wich hour you are on,  this will be displayed by the following color code:
 
 past: gray
+
 present: red
+
 future: green
 
 This are updated automatically as time passes.
