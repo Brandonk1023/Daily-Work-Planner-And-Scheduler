@@ -27,7 +27,7 @@ present: red
 
 future: green
 
-This are updated automatically as time passes.
+These are updated automatically as time passes.
 
 
 ![Planner/Scheduler Screen](Assets/images/PlannerScreen.jpg)
