@@ -22,7 +22,7 @@ $(function () {
 
   $(".time-block").each(function () {
     let x = parseInt(currentTime.format("H"));
-    let blockTime = parseInt($(this).attr("id").split("hour")[1]);
+    let blockTime = parseInt(Math.abs(($(this).attr("id").split("hour")[1])));
     if (blockTime === x) {
       $(this).addClass("present");
       $(this).removeClass("future");

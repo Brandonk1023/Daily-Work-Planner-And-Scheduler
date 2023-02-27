@@ -41,10 +41,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Startcode:
-User URL:
-Repo URL:
-
+Startcode Repo URL:
+https://github.com/coding-boot-camp/crispy-octo-meme
 
 jQuery Documentation:
 https://api.jquery.com/
