@@ -5,7 +5,6 @@ $(function () {
   let currentTime = dayjs();
 
   $(".saveBtn").on("click", function () {
-    //event.preventDefault();
     let description = $(this).siblings(".description").val();
     let hour = $(this).parent().attr("id");
     localStorage.setItem(hour, description);
@@ -24,7 +23,6 @@ $(function () {
   $(".time-block").each(function () {
     let x = parseInt(currentTime.format("H"));
     let blockTime = parseInt($(this).attr("id").split("hour")[1]);
-    console.log(blockTime, "block time value");
     if (blockTime === x) {
       $(this).addClass("present");
       $(this).removeClass("future");
