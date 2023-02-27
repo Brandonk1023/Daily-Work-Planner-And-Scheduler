@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project was created to help with user time management through out the working business day.  Allowing for a easy to use central spot to input events that needed to be remembered and tracked throughout the day.  In creating this project, I was able to learn more on 3rd party API's such as jQuery and Day.Js. I was also able to learn more on DOM manipulation and further solidify those skills.
 
 ## Table of Contents
 
@@ -35,9 +30,7 @@ This are updated automatically as time passes.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Planner/Scheduler Screen](Assets/images/Planner Screen.jpg)
 
 ## Credits
 
@@ -51,5 +44,5 @@ Day.Js Documentation:
 https://day.js.org/
 
 ## License
- MIT
+ MIT License
 
