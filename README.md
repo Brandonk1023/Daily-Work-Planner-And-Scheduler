@@ -28,7 +28,7 @@ future: green
 This are updated automatically as time passes.
 
 
-![Planner/Scheduler Screen](Assets/images/screenshot.png)
+![Planner/Scheduler Screen](Assets\images\Planner Screen.jpg)
 
 ## Credits
 
